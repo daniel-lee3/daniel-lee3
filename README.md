@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=daniel-lee3&theme=nord&size=compact)
+
+![Top Languages](https://ghstats.dev/api/langs?username=daniel-lee3&theme=nord&hide_title=true&max_langs=4)
